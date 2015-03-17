@@ -2,12 +2,19 @@
 <package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <metadata>
     <id>nodejs.commandline</id>
-    <title>Node JS (Portable, CommandLine)</title>
+    <title>[DEPRECATED] Node JS (Portable, CommandLine)</title>
     <version>{{PackageVersion}}</version>
     <authors>Joyent</authors>
     <owners>Rob Reynolds</owners>
     <summary>Node JS - Evented I/O for v8 JavaScript.</summary>
-    <description>Node JS - Evented I/O for v8 JavaScript. Node's goal is to provide an easy way to build scalable network programs.
+    <description>
+### DEPRECATION NOTICE
+This package uses an older NPM which is no longer offered as a standalone package separately from NodeJS. It is recommended that you uninstall this package and the package nodejs.commandline in favor of nodejs.install (which nodejs package now points to).
+
+Use nodejs.install instead (Node JS package (nodejs) now points to nodejs.install).
+
+### Description
+Node JS - Evented I/O for v8 JavaScript. Node's goal is to provide an easy way to build scalable network programs.
 
 This package simply copies Node.exe to a subfolder within the Chocolatey folder. This now takes a dependency on the npm package, so NPM will be installed as well.
 </description>
