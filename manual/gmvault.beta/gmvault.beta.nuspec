@@ -7,19 +7,18 @@
     <authors>Guillaume Aubert</authors>
     <owners>Michael Smith</owners>
     <summary>Gmvault - Gmail Backup</summary>
-    <description>
-    - Backup all your emails on disk.
-    - Update your backup in minutes.
-    - Restore emails in any Gmail account.
-    - Used daily by thousands of users.
-    - Acclaimed by many tech sites.
-    - A living open source project.
-    - Handle all Gmail IMAP hiccups.
-    - Encrypt saved emails.
-    - For geek and non-geek users.
-    - Available on many platforms.
-    - Filesystem as a database.
-    - Highly customisable.
+    <description>- Backup all your emails on disk.
+- Update your backup in minutes.
+- Restore emails in any Gmail account.
+- Used daily by thousands of users.
+- Acclaimed by many tech sites.
+- A living open source project.
+- Handle all Gmail IMAP hiccups.
+- Encrypt saved emails.
+- For geek and non-geek users.
+- Available on many platforms.
+- Filesystem as a database.
+- Highly customisable.
     </description>
     <tags>gmail</tags>
     <licenseUrl>http://www.gnu.org/licenses/gpl-3.0.html</licenseUrl>
